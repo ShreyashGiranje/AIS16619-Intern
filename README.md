@@ -27,4 +27,8 @@ Day 4-
 
      Task 3:-
 
+     i) It was statement regarding. In it we learned what Break, Pass and Continue statement are and how they are used in for loop and while loop. And from the name we can understand that what will be their work. Break is used to break a loop, etc
+     ii) After this we learned what statistical user defined function is. A function was created using statistical concept in it. Just created a function using its formula to find the mean.
+     iii) Later learned what Logical user defined function is. Using this concept, a function was created after understanding the logic behind any concept or any formula.
+
      
