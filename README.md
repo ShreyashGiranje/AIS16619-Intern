@@ -31,4 +31,25 @@ Day 4-
      ii) After this we learned what statistical user defined function is. A function was created using statistical concept in it. Just created a function using its formula to find the mean.
      iii) Later learned what Logical user defined function is. Using this concept, a function was created after understanding the logic behind any concept or any formula.
 
-     
+Day 5-
+
+     Task 4:-
+
+     NumPy Library: Basic, random(distributions and visualzation), universal functions
+
+Day 6-
+
+     Task 5:-
+
+     i) Pandas series creation and operationds.
+     ii) Dataframe creation using matrix, dictionary and to red csv and xlsx files.
+     iii) Dataframe operarions od dateframe methods in pandas.
+     iv)Selection in dataframe: rows or columns selection, delete, update, index, remove inedx, etc. operations between two rowsor columns in dataframe.
+     v) Missing values: checking for missing values, dropping missing values, fill missing values.
+
+Day 7-
+
+    Task 6:-
+
+    i) Matplotlib and Seaborn library for all type of ghraphical visualization.
+       plots like- Line, Scatter, Bar, Histogram, Box, Heattmap, Count, Regression, Area, Pie, etc.
