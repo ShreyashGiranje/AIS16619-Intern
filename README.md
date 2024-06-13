@@ -52,4 +52,4 @@ Day 7-
     Task 6:-
 
     i) Matplotlib and Seaborn library for all type of ghraphical visualization.
-       plots like- Line, Scatter, Bar, Histogram, Box, Heattmap, Count, Regression, Area, Pie, etc.
+       plots like- Line, Scatter, Bar, Histogram, Box, Heatmap, Count, Regression, Area, Pie, etc.
