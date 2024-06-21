@@ -66,34 +66,67 @@ Day 8-
 
 Day 10-
 
-     Case Study 1:- 
+     Case Study 1:-  Titanic Dataset
 
-     Titanic Dataset :-
-                     1) read data and import necessary libraries data preprocessing : 
-                     2) finding missing value and fill or drop
-                     3) if need drop variable 
-                     4) label encoding for categorical variable 
+       1) read data and import necessary libraries data preprocessing : 
+       2) finding missing value and fill or drop
+       3) if need drop variable 
+       4) label encoding for categorical variable 
 
-                     *Visualisation:
-                     EDA: bar plot ,scatter plot, joint bar plot, Pai chart, etc
+      *Visualisation:
+       EDA: bar plot ,scatter plot, joint bar plot, Pai chart, etc
 
-                     Model building:
-                     5)choose dependent and independent variables
-                     6) split data into train test ,80:20
-                     7)import naive bay’s algorithms 
-                     8) fit naive bays model on train data
-                     9)predict text data using fitted model
+       Model building:
+       5)choose dependent and independent variables
+       6) split data into train test ,80:20
+       7)import naive bay’s algorithms 
+       8) fit naive bays model on train data
+       9)predict text data using fitted model
 
-                     *Model evaluation: 
-                     10) find accuracy 
-                     11)find classification report 
-                     12)find confusion matrics 
+       *Model evaluation: 
+       10) find accuracy 
+       11)find classification report 
+       12)find confusion matrics 
 
-                     *Same process for :
-                     8) knn algorithm 
-                     9) decision tree
+       *Same process for :
+       13) knn algorithm 
+       14) decision tree
 
-                     *Comparison:
-                     Naive bays ,knn, decision tree compair 
-                     Accuracy,recall, precision
-     
+       *Comparison:
+       Naive bays ,knn, decision tree compair 
+       Accuracy,recall, precision
+
+    
+                   
+
+Day 13-
+
+      Project :- "Box Office Revenue Prediction"
+                         
+       1) read data and import necessary libraries data preprocessing : 
+       2) finding missing value and fill or drop
+       3) if need drop variable 
+       4) label encoding for categorical variable 
+
+      *Visualisation:
+       EDA: bar plot ,scatter plot, joint bar plot, Pai chart, etc
+
+       Model building:
+       5)choose dependent and independent variables
+       6) split data into train test ,80:20
+       7)import naive bay’s algorithms 
+       8) fit naive bays model on train data
+       9)predict text data using fitted model
+
+       *Model evaluation: 
+       10) find accuracy 
+       11)find classification report 
+       12)find confusion matrics 
+
+       *Same process for :
+       13) knn algorithm 
+       14) decision tree
+
+       *Comparison:
+       Naive bays ,knn, decision tree compair 
+       Accuracy,recall, precision
