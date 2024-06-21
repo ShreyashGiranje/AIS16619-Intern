@@ -12,7 +12,9 @@ Day 2-
      
      i) We learned  Operators. Operators we have Arithmetic, Assignment, Comparison, Logical, Identity, Membership and etc.Looked at some of these types and learned how to use them.
      ii) After this we learned what is variable selection in python. We saw the different rules of how to create variables, how to write variable names.And also saw examples of variable selection.
-     iii) Then we learned what Data Types are. There are two types of data types, Mutable Data Types and Immutable Data Types. 1) Mutable Data Types include List, Set, Dictionary Data Types. And saw examples of each. 2) Immutable Data Types include Numerical, String and Tuple Data Types and saw some examples.
+     iii) Then we learned what Data Types are. There are two types of data types, Mutable Data Types and Immutable Data Types. 
+             1) Mutable Data Types include List, Set, Dictionary Data Types. And saw examples of each.
+             2) Immutable Data Types include Numerical, String and Tuple Data Types and saw some examples.
 
 Day 3-
 
