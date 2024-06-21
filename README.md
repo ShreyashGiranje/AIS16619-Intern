@@ -65,7 +65,7 @@ Day 8-
 
 Day 10-
 
-     Case Study:- 
+     Case Study 1:- 
 
      Titanic Dataset :-
                      1) read data and import necessary libraries data preprocessing : 
@@ -73,7 +73,7 @@ Day 10-
                      3) if need drop variable 
                      4) label encoding for categorical variable 
 
-                     Visualisation:
+                     *Visualisation:
                      EDA: bar plot ,scatter plot, joint bar plot, Pai chart, etc
 
                      Model building:
@@ -83,16 +83,16 @@ Day 10-
                      8) fit naive bays model on train data
                      9)predict text data using fitted model
 
-                     Model evaluation: 
+                     *Model evaluation: 
                      10) find accuracy 
                      11)find classification report 
                      12)find confusion matrics 
 
-                     Same process for :
+                     *Same process for :
                      8) knn algorithm 
                      9) decision tree
 
-                     Comparison:
+                     *Comparison:
                      Naive bays ,knn, decision tree compair 
                      Accuracy,recall, precision
      
