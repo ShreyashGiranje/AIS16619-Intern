@@ -109,4 +109,27 @@ Day 13-
        4) label encoding for categorical variable 
 
       *Visualisation:
-       EDA:
+      
+      used Power BI and make dashboard for better visulisation and make some different graohs for visulisation.
+
+      Model Building: 
+
+      as our dependent variable is continues so we ues regressiion techqniues like 
+      1) Linear Regression
+      2) KNN 
+      3) Decision Tree
+      4) Random Forest 
+      5) Bagging
+      6) Boosting
+      7) SVR
+      8) Nueral Network
+      9) Voting
+      10) Stacking
+
+      We fit model for all above algorithms then find Grid Search CV for all algorithms and compare RMSE's of before and after grid search cv.
+
+      This show that random forest gives minimum RMSE over the all other algorithms.
+      Thats why Random Forest is our best fit to Model. 
+
+    
+   
